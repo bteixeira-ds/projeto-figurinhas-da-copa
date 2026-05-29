@@ -77,4 +77,4 @@ Neste projeto foram utilizados conceitos como:
 
 ---
 
-Projeto criado para prática e estudos em Python 🚀
+Projeto criado para prática e estudos em Python 
