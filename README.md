@@ -59,11 +59,11 @@ Neste projeto foram utilizados conceitos como:
 
 # Funcionalidades atuais
 
-Adicionar figurinha
-Mostrar figurinhas agrupadas
-Mostrar repetidas
-Organização por países
-Menu interativo
+* Adicionar figurinha
+* Mostrar figurinhas agrupadas
+* Mostrar repetidas
+* Organização por países
+* Menu interativo
 
 ---
 
