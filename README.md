@@ -133,7 +133,7 @@ Persistência com JSON
 
 API Flask
 
-## Fase 4 (Estou nessa fase)
+## Fase 4 
 
 * Criar POST /figurinhas
 * Criar DELETE /figurinhas
